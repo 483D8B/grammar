@@ -344,9 +344,19 @@
             function handleSearch(searchWords, divTableCells) {
                 let displayedGrammar = [];  // Array to store the displayed grammar lessons
                 const alphanumericRegex = /[\da-zA-Z]+/;
-                if (searchWords.length === 0) {
+                const levels = ['n5', 'n4', 'n3', 'n2', 'n1']; 
+
+                // Check if the search words include a level
+                let searchLevel = searchWords.find(word => levels.includes(word.toLowerCase()));
+
+                if (searchWords.length === 0 || (searchWords.length === 1 && searchLevel)) {
                     divTableCells.forEach(cell => {
-                        cell.style.display = "block";
+                        const levelText = cell.querySelector('.level').textContent.trim().toLowerCase();
+                        if (searchLevel) {
+                            cell.style.display = levelText === searchLevel ? 'block' : 'none';
+                        } else {
+                            cell.style.display = "block";
+                        }
                         let lesson = cell.querySelector('.lesson').textContent.trim();
                         displayedGrammar.push(lesson);  // Add the lesson to the array
                     });
@@ -358,12 +368,18 @@
                         const grammarMeaningText = cell.querySelector('.grammarMeaning').textContent.trim().toLowerCase();
                         const levelText = cell.querySelector('.level').textContent.trim().toLowerCase();
 
+                        // If a level is included in the search words, only consider the lessons of that level
+                        if (searchLevel && levelText !== searchLevel) {
+                            cell.style.display = 'none';
+                            return;
+                        }
+
                         let found = searchWords.some(word => {
                             if (alphanumericRegex.test(word)) {
                                 const regex = new RegExp("\\b" + word + "\\b", "i");
-                                return regex.test(lessonText) || regex.test(grammarMeaningText) || regex.test(levelText);
+                                return regex.test(lessonText) || regex.test(grammarMeaningText);
                             } else {
-                                return lessonText.includes(word) || grammarMeaningText.includes(word) || levelText.includes(word);
+                                return lessonText.includes(word) || grammarMeaningText.includes(word);
                             }
                         });
 
@@ -382,9 +398,15 @@
                             const grammarMeaningText = cell.querySelector('.grammarMeaning').textContent.trim().toLowerCase();
                             const levelText = cell.querySelector('.level').textContent.trim().toLowerCase();
 
+                            // If a level is included in the search words, only consider the lessons of that level
+                            if (searchLevel && levelText !== searchLevel) {
+                                cell.style.display = 'none';
+                                return;
+                            }
+
                             let found = searchWords.some(word => {
                                 if (alphanumericRegex.test(word)) {
-                                    return lessonText.includes(word) || grammarMeaningText.includes(word) || levelText.includes(word);
+                                    return lessonText.includes(word) || grammarMeaningText.includes(word);
                                 }
                             });
 
@@ -396,8 +418,10 @@
                         });
                     }
                 }
-
             }
+
+
+
 
 
             // Function to shuffle an array
