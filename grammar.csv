@@ -1,0 +1,849 @@
+﻿id;GrammarPoint;GrammarMeaning;Level
+1;ちゃいけない・じゃいけない;must not do (spoken Japanese);N5
+2;だ / です;to be (am, is, are, were, used to);N5
+3;だけ;"only; just; as much as ~";N5
+4;だろう;"I think; it seems; probably; right?";N5
+5;で;"in; at; on; by; with; via ~";N5
+6;でも;"but; however; though ~";N5
+7;でしょう;"I think; it seems; probably; right?";N5
+8;どんな;"what kind of; what sort of";N5
+9;どうして;"why; for what reason; how";N5
+10;どうやって;"how; in what way; by what means​";N5
+11;が;"subject marker; however; but ~";N5
+12;があります;"there is; is (non-living things)";N5
+13;がほしい;to want something;N5
+14;がいます;"there is; to be; is (living things)";N5
+15;ほうがいい;"had better; it'd be better to; should ~";N5
+16;い-adjectives;i-adjectives;N5
+17;一番（いちばん）;"the most; the best";N5
+18;一緒に（いっしょに）;together;N5
+19;いつも;"always; usually; habitually";N5
+20;じゃない・ではない;"to not be (am not; is not; are not)";N5
+21;か;question particle;N5
+22;か～か;or;N5
+23;から;"because; since; from";N5
+24;方（かた）;"the way of doing something; how to do ~";N5
+25;けど;"but; however; although ~";N5
+26;けれども;"but; however; although ~";N5
+27;まだ;"still; not yet";N5
+28;まだ～ていません;have not yet ~;N5
+29;まで;"until; as far as; to (an extent); even ~";N5
+30;前に（まえに）;"before; in front of ~";N5
+31;ませんか;"would you; do you want to; shall we ~";N5
+32;ましょう;"let's ~; shall we ~";N5
+33;ましょうか;"shall I ~; used to offer help to the listener";N5
+34;も;"too; also; as well";N5
+35;もう;"already; anymore; again; other";N5
+36;な-adjectives;na-adjectives;N5
+37;なあ;"sentence ending particle; confirmation; admiration, etc";N5
+38;ないで;"without doing ~; to do [B] without doing [A]";N5
+39;ないでください;please don't do ~;N5
+40;ないといけない;"must do; have an obligation to do ~";N5
+41;なくてもいい;don't have to;N5
+42;なくちゃ;"must do; need to; gotta do ~";N5
+43;なくてはいけない;"must do; need to do";N5
+44;なくてはならない;"must do; need to do ~";N5
+45;なる;to become;N5
+46;んです;"to explain something; show emphasis";N5
+47;ね;isn't it? right? eh?;N5
+48;に;"destination particle; in; at; on; to";N5
+49;に行く（にいく）;go to do ~;N5
+50;にする;to decide on;N5
+51;に/へ;to (indicates direction / destination);N5
+52;の;possessive particle;N5
+53;のです;"to explain something; show emphasis";N5
+54;のが下手（のがへた）;to be bad at doing something;N5
+55;のが上手（のがじょうず）;to be good at;N5
+56;のが好き（のがすき）;to like doing something;N5
+57;の中で[A]が一番（のなかで[A]がいちばん）;out of this group, [A] is best;N5
+58;ので;"because of; given that; since ~";N5
+59;お / ご;"polite marker; honorific prefix particle";N5
+60;を;object marker particle;N5
+61;をください;please give me ~;N5
+62;しかし;"but; however ~";N5
+63;それから;"and; and then; after that; since then";N5
+64;そして;"and; and then; thus; and now ~";N5
+65;すぎる;too much;N5
+66;たことがある;to have done something before;N5
+67;たい;want to do something;N5
+68;たり～たり;do such things as A and B;N5
+69;てある;is/has been done (resulting state);N5
+70;ている;ongoing action or current state;N5
+71;てから;after doing ~;N5
+72;てください;please do;N5
+73;てはいけない;"must not; may not; cannot";N5
+74;てもいいです;"is OK to ~; is alright to ~; may I ~?";N5
+75;と;"and; with; as; connecting particle";N5
+76;とき;"when; at this time";N5
+77;とても;"very; awfully; exceedingly​";N5
+78;つもり;"plan to ~; intend to ~";N5
+79;は;topic marker;N5
+80;は〜より・・・です;[Noun-1] is more ~ than [Noun-2];N5
+81;はどうですか;"how about; how is";N5
+82;や;"and; or; connecting particle";N5
+83;よ;"you know; emphasis (ending particle)";N5
+84;より～ほうが;[2] is more than [1];N5
+85;間（あいだ）;"while; during; between ~";N4
+86;間に（あいだに）;"while; during~ something happened";N4
+87;あまり～ない;not very, not much ~;N4
+88;後で（あとで）;"after~; later";N4
+89;ば;"conditional form; If [A] then [B]";N4
+90;場合は（ばあいは）;"in the event of; in the case that ~";N4
+91;ばかり;"only; nothing but ~";N4
+92;だけで;"just by; just by doing";N4
+93;出す（だす）;"to begin to; to start to; to burst into; ... out (e.g. to jump out, to carry out)​";N4
+94;でございます;to be (honorific);N4
+95;でも;"... or something; how about~";N4
+96;ではないか;"right?; isn't it?";N4
+97;が必要（がひつよう）;"need; necessary";N4
+98;がする;"to smell; hear; taste";N4
+99;がり;"personality (someone tends to; has a tendency to; has a sensitivity to ~)";N4
+100;がる / がっている;"to show signs of; to appear; to feel, to think ~";N4
+101;ございます;to be, to exist (the polite form of いる/ある);N4
+102;始める（はじめる）;"to start; to begin to ~";N4
+103;はずだ;"it must be; it should be (expectation)";N4
+104;はずがない;cannot be (impossible);N4
+105;必要がある（ひつようがある）;"need to; it is necessary to";N4
+106;意向形 （いこうけい）;"volitional form​; let's do ~";N4
+107;いらっしゃる;"to be; to come; to go (polite version)";N4
+108;いたします;to do (polite form of する);N4
+109;じゃないか;"right? isn't it? let's~; confirmation";N4
+110;かどうか;whether or not ~;N4
+111;かしら;I wonder (feminine);N4
+112;かい;turns a sentence into a yes/no question;N4
+113;かもしれない;"might; perhaps; indicates possibility";N4
+114;かな;"I wonder; should I?";N4
+115;から作る（からつくる）;"made from; made with";N4
+116;きっと;"surely; undoubtedly; almost certainly; most likely";N4
+117;頃（ころ / ごろ）;"around; about; when";N4
+118;こと;Verb nominalizer;N4
+119;ことがある;there are times when;N4
+120;ことができる;"can; able to";N4
+121;ことになる;"It has been decided that..; it turns out that..";N4
+122;ことにする;to decide on;N4
+123;くする;to make something ~;N4
+124;急に（きゅうに）;"quickly; immediately; hastily; suddenly; abruptly; unexpectedly ~";N4
+125;までに;"by; by the time; indicates time limit";N4
+126;まま;"as it is; current state; without changing";N4
+127;または;"both; or; otherwise​; choice between [A] or [B]";N4
+128;みたいだ;"like; similar to; resembling ~";N4
+129;みたいな;like, similar to ~;N4
+130;みたいに;"like; similar to ~";N4
+131;も;"as many as; as much as; up to; nearly ~";N4
+132;な;don’t ~ (order somebody to not do something);N4
+133;など;"such as; things like ~";N4
+134;ながら;"while; during; as; simultaneously";N4
+135;なかなか～ない;"not easy to; struggling to; not able to ~";N4
+136;なければいけない;"must do something; have to do something";N4
+137;なければならない;"must do something; have to do something";N4
+138;なら;"if; in the case that ~";N4
+139;なさい;do this (soft/firm command);N4
+140;なさる;to do (honorific);N4
+141;に気がつく（にきがつく）;"to notice; to realize";N4
+142;に見える（にみえる）;"to look; to seem; to appear";N4
+143;にする;to make something ~;N4
+144;にくい;difficult to do ~;N4
+145;の中で（のなかで）;"in; among ~";N4
+146;のに;although, in spite of, even though ~;N4
+147;のに;"to (do something); in order to ~";N4
+148;のは〜だ;"[A] is [B]; the reason for [A] is [B]";N4
+149;お～ください;please do ~ (honorific);N4
+150;お～になる;to do (honorific);N4
+151;おきに;repeated at intervals, every ~;N4
+152;終わる（おわる）;"to finish; to end~";N4
+153;られる;"potential form; ability or inability to do something";N4
+154;らしい;"it seems like; I heard; apparently ~";N4
+155;さ;"-ness​ ; nominalizer for adjective";N4
+156;さっき;"some time ago; just now";N4
+157;させられる;"causative-passive; to be made to do something";N4
+158;させる;"causative form; to make/let somebody do something";N4
+159;させてください;please let me do;N4
+160;さすが;"as one would expect; as is to be expected; even ~";N4
+161;し;"and; and what’s more ~ (emphasis)";N4
+162;そんなに;"so much; so; like that";N4
+163;それでも;"but still; and yet; even so ~";N4
+164;それに;"besides; in addition; also; moreover ~";N4
+165;そうだ;"I heard that; it is said that ~";N4
+166;そうだ;"looks like; appears like; seeming ~";N4
+167;そうに / そうな;"seems like; looks like ~";N4
+168;たばかり;"just finished; something just occurred";N4
+169;たところ;just finished doing, was just doing;N4
+170;他動詞 & 自動詞（たどうし & じどうし）;Transitive & Intransitive Verbs;N4
+171;たがる;wants to do ~ (third person);N4
+172;たら;"if; after; when ~";N4
+173;たらどう;"why don't you; how about ~ (used to give advice)";N4
+174;たらいいですか;"what should I do?; speaker seeking instructions from listener";N4
+175;て / で;"conjunctive particle; so; because of [A], [B]...";N4
+176;てあげる;"to do for; to do a favor";N4
+177;てほしい;"I want you to; need you to ~";N4
+178;ていく;"to start; to continue; to go on";N4
+179;ていた;was doing something (past continuous);N4
+180;ていただけませんか;could you please ~;N4
+181;てくれる;"to do a favor; do something for someone";N4
+182;てくる;"to do… and come back; to become; to continue; to start ~";N4
+183;てみる;try doing;N4
+184;てもらう;to get somebody to do something;N4
+185;ておく;to do something in advance;N4
+186;てしまう / ちゃう;to do something by accident, to finish completely;N4
+187;てすみません;I’m sorry for;N4
+188;てやる;"to do for; to do a favor (casual)";N4
+189;てよかった;I’m glad that ~;N4
+190;ているところ;in the process of doing;N4
+191;ても;"even; even if; even though ~";N4
+192;と;whenever [A] happens, [B] also happens;N4
+193;と言ってもいい（といってもいい）;"you could say; one might say; I'd say ~";N4
+194;という;"called; named; that ~";N4
+195;ということ;convert phrase into noun;N4
+196;と言われている（といわれている）;it is said that ~;N4
+197;と聞いた（ときいた）;I heard...;N4
+198;と思う（とおもう）;"to think…; I think…; you think…";N4
+199;とか～とか;"among other things; such as; like ~";N4
+200;ところ;"just about to; on the verge of doing something";N4
+201;続ける（つづける）;"continue to; keen on ~";N4
+202;って;"named; called ~";N4
+203;受身形（うけみけい）;"passive form; passive voice";N4
+204;は〜が… は;"[A] but [B]; however; comparison";N4
+205;やすい;"easy to; likely to; prone to; have a tendency to ~";N4
+206;やっと;"at last; finally; barely; narrowly ~";N4
+207;より;"than; rather than; more than ~";N4
+208;予定だ（よていだ）;plan to, intend to;N4
+209;ようだ;"appears; seems; looks as if ~";N4
+210;ように / ような;"like; as; similar to ~";N4
+211;ようになる;"to reach the point that; to come to be that; to turn into ~";N4
+212;ようにする;"to try to; to make sure that ~";N4
+213;ようと思う（ようとおもう）;"thinking of doing; planning to ~";N4
+214;ぜひ;"by all means; certainly; definitely ~";N4
+215;全然～ない（ぜんぜん～ない）;(not) at all;N4
+216;づらい;difficult to do ~;N4
+217;上げる（あげる）;to finish doing ~;N3
+218;あまり;so much… that;N3
+219;あまりにも;"too much; so much… that; excessively ~";N3
+220;合う（あう）;do something together;N3
+221;ばいい;"should; can; it’d be good if ~";N3
+222;ばよかった;"should have; would have been better if ~";N3
+223;ば～ほど;the more… the more ~;N3
+224;ば～のに;"would have; should have; if only ~";N3
+225;ばかりで;"only; just ~ (negative description)";N3
+226;ばかりでなく;"not only... but also; as well as ~";N3
+227;べきだ;"should do; must do ~";N3
+228;べきではない;"should not do; must not do ~";N3
+229;別に～ない（べつに～ない）;not really, not particularly;N3
+230;ぶりに;for the first time in (period of time);N3
+231;中（ちゅう）;"currently; during; at some point; throughout; before the end of ~";N3
+232;だけ;as much as ~;N3
+233;だけでなく;not only… but also ~;N3
+234;だけど;"but; however; although; regarding ~";N3
+235;だらけ;"full of; covered with; a lot of (something undesirable)";N3
+236;どんなに～ても;no matter how (much);N3
+237;どうしても;"no matter what; at any cost; after all ~";N3
+238;ふりをする;"to pretend; to act as if ~";N3
+239;ふと;"suddenly; accidentally; unexpectedly; unintentionally ~";N3
+240;がち;"tend to; tendency to; frequently; often; to do something easily";N3
+241;がたい;"very difficult to; hard to ~";N3
+242;気味（ぎみ）;"-like; -looking; -looked; tending to ~";N3
+243;ごとに;"each; every; at intervals of ~";N3
+244;ほど;"degree; extent; bounds; upper limit";N3
+245;ほど～ない;is not as… as ~;N3
+246;一度に（いちどに）;all at once;N3
+247;いくら～ても;no matter how ~;N3
+248;一方だ（いっぽうだ）;"more and more; continue to ~";N3
+249;一体（いったい）;"emphasis; what on earth; what in the world";N3
+250;じゃない;"maybe; most likely; confirmation of information; express surprise towards listener";N3
+251;か何か（かなにか）;or something ~;N3
+252;かける;"half-; not yet finished; in the middle of~";N3
+253;から〜にかけて;"through; from [A] to [B]";N3
+254;代わりに（かわりに）;"instead of; as a substitute for​; in exchange for; in return for";N3
+255;結果（けっか）;"as a result of; after ~";N3
+256;結局（けっきょく）;"after all; eventually; in the end ~";N3
+257;決して～ない（けっして～ない）;"never; by no means ~";N3
+258;切れない（きれない）;"unable to do; too much to finish/complete";N3
+259;きり;"only; just; since; after ~";N3
+260;切る（きる）;to do something completely to the end;N3
+261;っけ;a casual suffix to confirm something you are trying to remember;N3
+262;込む（こむ）;to do something for a long time or to move something inside;N3
+263;こそ;"for sure (emphasize preceding word); precisely; definitely ~";N3
+264;こと;(must) do;N3
+265;ことから;from the fact that ~;N3
+266;ことになっている;expresses a standard, rule or expectation;N3
+267;ことはない;"there is no need to; (something) never happens; there is no possibility that ~";N3
+268;ことは～が;"although; but ~";N3
+269;くらい / ぐらい;"approximately; about; around; to the extent ~";N3
+270;くせに;"and yet; though; in spite of; despite ~";N3
+271;まるで;"as if; as though; just like ~";N3
+272;まさか;"there's no way; that's impossible; you must be joking";N3
+273;めったに～ない;"hardly; rarely; seldom";N3
+274;も～ば～も;"and; also; as well; either/or; neither/nor";N3
+275;もしかしたら;"perhaps; maybe; perchance; by any chance ~";N3
+276;もしも〜たら;"if; in the case; supposing ~";N3
+277;向け（むけ）;"intended for; aimed at ~";N3
+278;向き（むき）;suitable for ~;N3
+279;むしろ;"rather; instead; better ~";N3
+280;ながらも;"but; although; despite ~";N3
+281;ないことはない;"can do; is not impossible to ~";N3
+282;ないと;"must do; unless/if you don't ~";N3
+283;なかなか;"very; quite; pretty; rather; just not ~";N3
+284;なんか / なんて / など;"give examples; show modesty; make light of ~";N3
+285;直す（なおす）;"to do something again; to do over";N3
+286;なるべく;as much as possible;N3
+287;なぜなら;"because; the reason is; if you want to know why";N3
+288;んだって;"I hear that; heard that ~";N3
+289;に違いない（にちがいない）;"I’m sure/ certain; no doubt that ~";N3
+290;に反して（にはんして）;"against; contrary to; in contrast to ~";N3
+291;にかけて;"over (a period); through; concerning; regarding ~";N3
+292;に関する / に関して（にかんする / にかんして）;"about; regarding; related to ~";N3
+293;にかわって / にかわり;"instead of; replacing; on behalf of ~";N3
+294;に比べて（にくらべて）;"compared to; in comparison to ~";N3
+295;に慣れる（になれる）;to be used to something;N3
+296;において / における;"in; at (place); regarding; as for; in relation to ~";N3
+297;にしたがって;"as; therefore; in accordance with; according to; consequently ~";N3
+298;にしても;"even if; even though; regardless of ~";N3
+299;にしては;"for; considering it’s (something or someone)";N3
+300;に対して（にたいして）;"towards; against; regarding; in contrast with​ ~";N3
+301;にとって;"to; for; concerning; as far as ... is concerned; regarding ~";N3
+302;について;"concerning; regarding; about; on ~";N3
+303;につれて;"as; in proportion to; with; as… then ~";N3
+304;には;"for the purpose of; in order to ~";N3
+305;によると /によれば;according to ~;N3
+306;によって / による;"by means of; due to; owing to; because of ~";N3
+307;のでしょうか;ask a question in a polite way;N3
+308;を中心に（をちゅうしんに）;"focused on; centered on";N3
+309;をはじめ;"for example; starting with ~";N3
+310;を込めて（をこめて）;"filled with; full of";N3
+311;を通じて / を通して（をつうじて / をとおして）;"through; via; throughout; by ~";N3
+312;おかげで;"thanks to; owing to; because of ~";N3
+313;っぱなし;"leaving (something) on; leaving (something) still in use​";N3
+314;っぽい;"seems like; somewhat; -ish; easily does; often does ~";N3
+315;さえ;"even; so much as; not even";N3
+316;さえ～ば;"if only; as long as ~";N3
+317;際に（さいに）;"when; at the time of; in the case of ~";N3
+318;最中に（さいちゅうに）;"while; during; in the middle of ~";N3
+319;さらに;"furthermore; again; more and more ~";N3
+320;さて;"conjunction: well; now; then ~";N3
+321;せいで;"because of; due to; as a result of ~";N3
+322;せいぜい;"at the most; at best; to the utmost";N3
+323;しばらく;"for a moment; for a while; for the time being";N3
+324;しかない;have no choice but ~;N3
+325;そのために;"hence; for that reason; because of ~";N3
+326;それとも;"or; or else ~";N3
+327;そうもない /そうにない;"very unlikely to; showing no signs of ~";N3
+328;すでに;"something has already been done/taken place; is already the case";N3
+329;すなわち;"in other words; namely ~";N3
+330;数量 + は（すうりょう + は）;at least ~;N3
+331;たものだ;"used to do; would often do";N3
+332;たとたん;"as soon as; just as ~";N3
+333;たびに;"whenever; every time ~";N3
+334;ために;"for; in order to; for the benefit of; because of; as a result of ~";N3
+335;確かに（たしかに）;surely, certainly ~;N3
+336;たて;"just done; freshly done; newly done";N3
+337;たとえ～ても;even if… is the case;N3
+338;例えば（たとえば）;"for example; for instance ~";N3
+339;たって;"even if; even though; no matter how ~";N3
+340;てばかりいる;"only; nothing but ~";N3
+341;てごらん;"(please) try to; (please) look";N3
+342;てはじめて;"not until; only after [x] did I";N3
+343;てからでないと;"must first do; cannot do without first doing ~";N3
+344;てしょうがない・てしかたがない;"can't help but; very; extremely ~";N3
+345;て済む（てすむ）;"sufficient by; no problem to; resolve by ~";N3
+346;てはいけないから;"in order to not~; to prevent a negative situation";N3
+347;ている場合じゃない（ているばあいじゃない）;this is no time to be doing ~;N3
+348;的（てき）;change noun into na-adjective or adverb;N3
+349;ても始まらない（てもはじまらない）;"even if you... it’s no use; there is no point to ~";N3
+350;ても構わない（てもかまわない）;it doesn't matter if ~;N3
+351;てもしょうがない / てもしかたがない;"there's no point to~; it's no use to~; it cannot be helped";N3
+352;と言えば（といえば）;"speaking of; when you talk of; when you say; if it were the case that ~";N3
+353;といい / たらいい;"it would be nice if; should; I hope ~";N3
+354;といっても;"although I say; although one might say ~";N3
+355;ということだ;"I heard; it means that; in other words ~";N3
+356;というのは;"this means; the meaning of … is; because; that is to say ~";N3
+357;と言うと（というと）;"speaking of; when you talk of; when you say ~";N3
+358;というより;rather than ~;N3
+359;とみえる / とみえて;it seems that ~;N3
+360;とすれば・としたら・とすると;"in the case of~; assuming~; if A then B";N3
+361;と共に（とともに）;"together with; at the same time as; as well as ~";N3
+362;途中で/途中に（とちゅうで/とちゅうに）;"on the way; in the middle of ~";N3
+363;ところで;by the way ~;N3
+364;ところが;"even so; however; even though ~";N3
+365;とおりに;"in the same way as; in the way; as ~";N3
+366;通す（とおす）;"to do until the end; to continually do; through ~";N3
+367;として;"as; in the role of ~";N3
+368;とても～ない;"cannot possibly be; hardly ~";N3
+369;とは限らない（とはかぎらない）;"not necessarily so; is not always true";N3
+370;つい;"accidentally; unintentionally; by mistake";N3
+371;ついに;"finally; at last; in the end ~";N3
+372;ついでに;while, incidentally, at the same time, on the way ~;N3
+373;つまり;"in other words; in summary; in short ~";N3
+374;つもりだった;"I thought I~; I believe I~; was planning to~; was intending to ~";N3
+375;つもりで;with the intention of doing ~;N3
+376;うちに;"while; before ~";N3
+377;上で（うえで）;"upon; after; when; for; in order to";N3
+378;上に（うえに）;"as well; besides; in addition to; not only… but also ~";N3
+379;は別として（はべつとして）;"aside from; apart from; except for; whether or not ~";N3
+380;はもちろん;"not to mention; not only ... but also ~";N3
+381;は～で有名（は～でゆうめい）;famous for ~;N3
+382;わけだ;"for that reason; no wonder; as you’d expect; the fact is; so you mean ~";N3
+383;わけではない;"it doesn’t mean that; it is not the case that; I don’t mean that; it is not true that ~";N3
+384;わけがない;"there is no way that; it is impossible to ~";N3
+385;わけにはいかない;"must not; cannot afford to; must, have no choice but to ~";N3
+386;割に（わりに）;"considering ~; for ~; despite ~";N3
+387;わざと;"on purpose; intentionally ~";N3
+388;わざわざ;"to go to the trouble of; to go out of one's way to ~";N3
+389;よりも;"in comparison to; rather than; more than ~";N3
+390;ようがない;"there is no way to; it’s impossible to ~";N3
+391;ような気がする（ようなきがする）;"have a feeling that; feels like; seems like; think that ~";N3
+392;ように;in order to, so that ~;N3
+393;ように見える（ようにみえる）;"to look; to seem; to appear ~";N3
+394;ようとしない;"not try to; not make an effort to ~";N3
+395;ようとする;"try to; attempt to; be about to ~";N3
+396;ずに;without doing ~;N3
+397;ずにはいられない;"can’t help but feel; can’t help but do; must do ~";N3
+398;ずつ;"apiece; each; at a time";N3
+399;あげく;"to end up; in the end; finally; after all ~";N2
+400;あるいは;"or; either; maybe; perhaps; possibly ~";N2
+401;ばかり;about, approximately ~;N2
+402;ばかりだ;continue to (go in negative direction);N2
+403;ばかりか;"not only... but also; as well as ~";N2
+404;ばかりに;"simply because; on account of~ (negative result)";N2
+405;ちなみに;"by the way; in this connection; incidentally; (conjunction)";N2
+406;ちっとも～ない;"(not) at all; (not) in the least ~";N2
+407;だけあって;"being the case; precisely because; as expected from ~";N2
+408;だけましだ;"it’s better than; one should feel grateful for ~";N2
+409;だけに;"being the case; precisely because; as one would expect";N2
+410;だけのことはある;"no wonder; as expected of; not ... for nothing; not ... with nothing to show for it";N2
+411;だけは;to do all that one can;N2
+412;だって;"because; but; after all; even; too";N2
+413;でしかない;"merely; nothing but; no more than; there is only ~";N2
+414;どころではない;"not the time for; not the place for; far from; anything but ~";N2
+415;どころか;"far from; anything but; let alone; not to mention; much less ~";N2
+416;どうやら;"possibly; apparently; seems like; somehow; barely ~";N2
+417;どうせ;"anyhow; in any case; at any rate; after all; no matter what";N2
+418;得ない（えない）;"unable to; cannot; it is not possible to ~";N2
+419;得る（える / うる）;"can; to be able to; is possible to ~";N2
+420;再び（ふたたび）;"again; once more";N2
+421;ふうに;"this way; that way; in such a way; how";N2
+422;がきっかけで / をきっかけに;"with… as a start; as a result of; taking advantage of ~";N2
+423;げ;"looks like; seems like; appears to ~";N2
+424;逆に（ぎゃくに）;"conversely; on the contrary ~";N2
+425;反面（はんめん）;"while, although; on the other hand~";N2
+426;果たして（はたして）;"as was expected; sure enough; really; actually ~";N2
+427;一応（いちおう）;"more or less; pretty much; roughly; tentatively ~";N2
+428;以外（いがい）;"with the exception of; excepting ~";N2
+429;以上に（いじょうに）;"more than; not less than; beyond ~";N2
+430;以上は（いじょうは）;"because; since; seeing that ~";N2
+431;いきなり;"abruptly; suddenly; all of a sudden; without warning";N2
+432;一気に（いっきに）;"in one go; without stopping; all at once; immediately; instantly; right away ~";N2
+433;一方で（いっぽうで）;"on one hand, on the other hand; although ~";N2
+434;いわゆる;"what is called; as it is called; the so-called; so to speak​";N2
+435;いよいよ;"at last; finally; beyond doubt";N2
+436;上（じょう）;"for the sake of; from the standpoint of; as a matter of; in terms of ~";N2
+437;かのように;"as if; just like ~";N2
+438;かと思ったら（かとおもったら）;"just when; no sooner than ~";N2
+439;か～ないかのうちに;"just as; right after; as soon as ~";N2
+440;かえって;"on the contrary; rather; all the more; surprisingly ~";N2
+441;限り（かぎり）;"as long as; while… is the case; as far as; while ~";N2
+442;甲斐がある（かいがある）;it’s worth one’s efforts to do something;N2
+443;かねない;"(someone) might do something; something might happen";N2
+444;かねる;"unable to do something; can’t do something";N2
+445;から言うと（からいうと）;"in terms of; from the point of view of ~";N2
+446;からこそ;precisely because ~;N2
+447;から見ると（からみると）;"from the point of view of; by the look of; judging from ~";N2
+448;からには;"now that; since; so long as; because ~";N2
+449;からして;"judging from; based on; since; from; even ~";N2
+450;からすると / からすれば;"judging from; considering; by the look of ~";N2
+451;からと言って（からといって）;"just because; even if; even though ~";N2
+452;っこない;"no chance of; … is definitely not possible";N2
+453;ことだ;should do~ (used for suggestions or giving advice);N2
+454;ことだから;"because; since ~";N2
+455;ことか;"how…!; what…!";N2
+456;ことなく;without doing something even once;N2
+457;ことに;"emphasize speaker's feelings; to my (surprise/etc)";N2
+458;ことにはならない;just because… doesn’t mean ~;N2
+459;くせして;"although; despite the fact that; even though ~";N2
+460;まだしも;"rather; better​ ~";N2
+461;まい;"will not; will probably not; intend not to; must not ~";N2
+462;ままに;as, to do as ~;N2
+463;全く～ない（まったく～ない）;not at all ~;N2
+464;もかまわず;"without caring; without worrying about ~";N2
+465;も当然だ（もとうぜんだ）;"it’s only natural; no wonder; might as well ~";N2
+466;もの / もん;"because; indicates reason/ excuse/ dissatisfaction";N2
+467;ものだ;"describe feeling; express memories; state fact";N2
+468;ものだから;"so; therefore; the reason for something";N2
+469;ものではない;"shouldn’t do something; it’s impossible to ~";N2
+470;ものがある;"there is such a thing; to be the case that​; feels like ~";N2
+471;ものか / もんか;"as if (something untrue were actually true); there's no way ~";N2
+472;ものなら;"if I/we could; if [A] is possible, then [B]; if one can do something, then ~";N2
+473;ものの;"but; although; even though ~";N2
+474;もっとも;"but then; although; though ~";N2
+475;もう少しで（もうすこしで）;"almost; nearly, close to ~";N2
+476;ないではいられない;"can’t help but feel; can’t help but do ~";N2
+477;ないことには～ない;unless you ~;N2
+478;中を / 中では（なかを / なかでは）;"in; on; in the midst of; when; while ~";N2
+479;なくはない / なくもない;"it’s not that; I may (double negative)";N2
+480;なくて済む（なくてすむ）;get by without doing ~;N2
+481;何も～ない（なにも～ない）;"nothing; (not) ~ at all; there’s no need to ~";N2
+482;なお;"still; yet​; furthermore; in addition ~";N2
+483;ねばならない;"have to do; must; should ~";N2
+484;にあたって;"at the time; on the occasion of ~";N2
+485;にほかならない;"nothing but; none other than ~";N2
+486;に限らず（にかぎらず）;"not just; not only... but also ~";N2
+487;に限る（にかぎる）;"is best; nothing is better than ~";N2
+488;に限って（にかぎって）;"only; in particular ~";N2
+489;に関わらず（にかかわらず）;"in spite of; regardless of ~";N2
+490;に関わる（にかかわる）;"to relate to; to have to do with; relating to ~";N2
+491;に決まっている（にきまっている）;"certainly; I’m sure/certain that; it must be the case that ~";N2
+492;に越したことはない（にこしたことはない）;it’s best that, there’s nothing better than ~;N2
+493;に応えて（にこたえて）;in response to ~;N2
+494;に加えて（にくわえて）;in addition ~;N2
+495;に基づいて（にもとづいて）;"based on; on the basis of ~";N2
+496;に向かって（にむかって）;"to face; to go towards; to head to ~";N2
+497;に応じて（におうじて）;"depending on; in accordance with ~";N2
+498;に際して（にさいして）;"on the occasion of; at the time of ~";N2
+499;に先立ち（にさきだち）;"before; prior to ~";N2
+500;にせよ/ にしろ;"even if; regardless; whether... or ~";N2
+501;にしろ～にしろ;whether… or ~;N2
+502;にしたら / にすれば;"from one’s perspective; from the point of view of ~";N2
+503;にしても～にしても;regardless of whether ~;N2
+504;に沿って（にそって）;"along with; in accordance with ~";N2
+505;に相違ない（にそういない）;"without a doubt; certain; sure";N2
+506;に過ぎない（にすぎない）;"no more than; just; merely; only ~";N2
+507;に伴って（にともなって）;"as; due to; with; along with; following; accordingly ~";N2
+508;につけ;"every time; whenever; as; whether; in (either case)​";N2
+509;につき;"due to; because of; per; each";N2
+510;にわたって;"throughout; over a period of ~";N2
+511;にも関わらず（にもかかわらず）;"despite; in spite of; nevertheless; although ~";N2
+512;にて;in, at, with, by (formal particle);N2
+513;のももっともだ;"no wonder; …is only natural";N2
+514;の下で（のもとで）;"under; with ~";N2
+515;の上では（のうえでは）;"according to; from the viewpoint of ~";N2
+516;のみ;"only; nothing but​";N2
+517;のみならず;"not only; besides; as well as ~";N2
+518;ぬ;"negative verb conjugation; traditional version of ない";N2
+519;抜きにして / 抜きで（ぬきにして/ ぬきで）;"without; leaving out; cutting out ~";N2
+520;抜く（ぬく）;"to do something from beginning to end; completely, extremely ~";N2
+521;を契機に（をけいきに）;"as a good opportunity/chance to; as a result of; make the best of ~";N2
+522;をめぐって;"concerning; in regard to ~";N2
+523;をもとに;"based on; derived from; building on; beginning with ~";N2
+524;を除いて（をのぞいて）;"except; with the exception of; excluding ~";N2
+525;を問わず（をとわず）;"regardless of; irrespective of; no matter";N2
+526;お～願う（お～ねがう）;"please do; could you please…; I ask of you to ~";N2
+527;おまけに;"to make matters worse; besides; what's more; in addition; on top of that​";N2
+528;恐らく（おそらく）;"perhaps; likely; probably; I dare say ~";N2
+529;恐れがある（おそれがある）;"it is feared that; to be in danger of; to be liable to ~";N2
+530;及び（および）;"and; as well as ~";N2
+531;ろくに～ない;"not well; not enough; improperly; insufficiently; unsatisfactorily​ ~";N2
+532;幸いなことに（さいわいなことに）;"fortunately; luckily; thankfully ~";N2
+533;せいか;perhaps because ~;N2
+534;せっかく;"especially; (thank you for) troubling to, going to great pains for ~";N2
+535;せめて;"at least; at most ~";N2
+536;次第（しだい）;as soon as, dependent upon;N2
+537;次第で（しだいで）;"depending on; so ~";N2
+538;次第に（しだいに）;"gradually (progress into a state); in sequence; in order";N2
+539;しかも;"moreover; furthermore; and yet; what’s more ~";N2
+540;その上（そのうえ）;"besides; in addition; furthermore ~";N2
+541;それなのに;"and yet; despite this; but even so ~";N2
+542;それなら;"if that’s the case; if so ~";N2
+543;それにしても;"nevertheless; at any rate; even so; be that as it may ~";N2
+544;そう言えば（そういえば）;"come to think of it; now that you mention it ~";N2
+545;そうすると;"having done that; if that is done; if it is done in that way";N2
+546;末に（すえに）;"finally; after; following; at the end/ conclusion of ~";N2
+547;少しも～ない（すこしも～ない）;"not one bit; not even a little ~";N2
+548;少なくとも（すくなくとも）;at least ~;N2
+549;直ちに（ただちに）;"at once; immediately; directly; in person; automatically ~";N2
+550;たまえ;"do~; order somebody to do something";N2
+551;てばかりはいられない;can’t keep doing ~;N2
+552;てでも;"even if I have to; by all means ~";N2
+553;て以来（ていらい）;"since; henceforth ~";N2
+554;ていては;if one keeps doing ~;N2
+555;てこそ;"now that; since (something happened)";N2
+556;てまで;"even; will go far so as to ~";N2
+557;てならない;"can't help but; dying to; extremely ~";N2
+558;てたまらない;"can't help but; dying to; extremely ~";N2
+559;て当然だ（てとうぜんだ）;"natural; as a matter of course";N2
+560;ては / では;"whenever; if; when~; repetitive action";N2
+561;てはいられない;"can’t afford to; unable to ~";N2
+562;てはならない;"must not; cannot; should not ~";N2
+563;ては～ては;repetitive situations/actions;N2
+564;と同時に（とどうじに）;"at the same time as; while; simultaneously ~";N2
+565;といった;"like; such as ~";N2
+566;というふうに;in such a way that ~;N2
+567;ということは;"that is to say; so that means; in other words ~";N2
+568;というものだ;"something like; something called ~";N2
+569;というものではない;"there is no guarantee that…; not necessarily ~";N2
+570;と考えられる（とかんがえられる）;"one can think that; it is conceivable that; considered ~";N2
+571;とか（で）;I heard that ~;N2
+572;とっくに;"long ago; already; a long time ago";N2
+573;ところだった;"was just about to do something; something almost happened";N2
+574;ところに;"at the time; just as I was ~";N2
+575;ところを見ると（ところをみると）;"judging from; seeing that ~";N2
+576;とも;"even if; no matter (who, what, when, where, why, how); though ~";N2
+577;として～ない;"not at all; there is not even one";N2
+578;としても;"assuming; even if ~";N2
+579;つつ;"while; even though; despite ~";N2
+580;つつある;"to be doing; to be in the process of doing ~";N2
+581;上は（うえは）;"now that; since; as long as ~";N2
+582;はもとより;"also; let alone; from the beginning";N2
+583;はともかく;"anyhow; anyway; regardless; in any case; whether or not ~";N2
+584;わずかに;"slightly; only; barely; narrowly ~";N2
+585;やがて;"before long; soon; almost; eventually ~";N2
+586;やら～やら;"such things as A and B; A and B and so on ~";N2
+587;よほど / よっぽど;"very; greatly; much; to a large extent";N2
+588;より [2];from~ (a time, place, or person);N2
+589;よりほかない;to have no choice but ~;N2
+590;ようでは;if ~ (bad result);N2
+591;ようではないか;"let’s do (something); why don’t we ~";N2
+592;ようか～まいか;"whether or not; considering options";N2
+593;要するに（ようするに）;"in short; in a word; to sum up; to put it simply ~";N2
+594;ざるを得ない（ざるをえない）;"cannot help (doing); have no choice but to ~";N2
+595;ずに済む （ずにすむ）;get by without doing ~;N2
+596;敢えて（あえて）;"dare to; daringly; deliberately; purposely ~";N1
+597;あくまでも;"to the end; persistently; absolutely; is still very ~";N1
+598;案の定（あんのじょう）;"just as one thought; as usual; sure enough";N1
+599;あらかじめ;"beforehand; in advance; previously​";N1
+600;あっての;"which can exist solely due to the presence of; which owes everything to";N1
+601;ばこそ;only because ~;N1
+602;ばそれまでだ / たらそれまでだ;if… then it’s over;N1
+603;べからず / べからざる;"must not; should not; do not ~";N1
+604;べく;"in order to; for the purpose of ~";N1
+605;べくもない;cannot possibly be ~;N1
+606;べくして;"as it is bound to (happen); following the natural course";N1
+607;びる / びて / びた;"to seem to be; to appear; to behave as ~";N1
+608;ぶり / っぷり;"style; manner; way​";N1
+609;ぶる / ぶって / ぶった;"assuming the air of; behaving like; to pretend / act like ~";N1
+610;だに / だにしない;"even; not even ~";N1
+611;だの～だの;"and; and the like; and so forth ~";N1
+612;だろうに;"(1) surely..., but ~; although... is likely, ~ (2) should have (regret); might / must have been ~";N1
+613;であれ / であろうと;"whoever; whatever; however; even ~";N1
+614;であれ～であれ;whether [A] or [B];N1
+615;でもあり～でもある;"to also be; both… and ~";N1
+616;でも何でもない / くも何ともない（でもなんでもない / くもなんともない）;"not in the least; nothing like that";N1
+617;でなくてなんだろう;"must be; is definitely ~";N1
+618;ではあるまいか;"isn't it; I wonder if it’s not ~";N1
+619;ではあるまいし;"it’s not like; it isn’t as if ~";N1
+620;では済まない（ではすまない）;"it doesn’t end with just ~; it will take more than ~";N1
+621;どうにも～ない;"not … by any means; no matter how hard one tries, cannot ~";N1
+622;が早いか（がはやいか）;"no sooner than; as soon as ~";N1
+623;が/も～なら、～も～だ;negative connection/comparison (like father like son);N1
+624;がましい;"look like; sound like; approximate; similar to; somewhat like ~";N1
+625;がてら;"while; on the same occasion; at the same time; coincidentally ~";N1
+626;ごとき / ごとく / ごとし;"like; as if; the same as ~";N1
+627;ぐるみ;"together (with); -wide";N1
+628;羽目になる（はめになる）;"to get stuck with; to end up with (something unpleasant)";N1
+629;ほどのことではない;"it's not worth; no need to ~";N1
+630;ほうがましだ;"better than; would rather ~";N1
+631;放題（ほうだい）;"doing as one pleases; to one's heart's content; leaving uncontrolled";N1
+632;いかんだ / いかんでは / いかんによっては;"in accordance with; depending on; whether or not ~";N1
+633;いかんにかかわらず / いかんによらず / いかんをとわず;"regardless of; whether or not; doesn't matter whether ~";N1
+634;いかなる;"any kind of; every; whatsoever; whatever";N1
+635;いかに;"how; in what way; how much; to what extent";N1
+636;いかにも;"indeed; really; truly; just (like); very; extremely ~";N1
+637;いずれにしても / いずれにしろ / いずれにせよ;"anyhow; anyway; either way; in any case ~";N1
+638;じみた;"to become; to appear like; to look like; tainted with ~";N1
+639;か否か（かいなか）;whether or not ~;N1
+640;かと思いきや（かとおもいきや）;"contrary to expectations; or so we thought, but ~";N1
+641;限りだ（かぎりだ）;to feel strongly;N1
+642;甲斐もなく（かいもなく）;"despite; even though ~";N1
+643;可能性がある（かのうせいがある）;"may/might; there’s a possibility that ~";N1
+644;からある / からする / からの;"at least; as much as; as many as ~";N1
+645;かれ～かれ;"sooner or later; more or less";N1
+646;かたがた;"while; at the same time; incidentally; for the purpose of ~";N1
+647;かたわら;"while; besides; at the same time; in addition";N1
+648;かつて;"once; before; formerly; ever; former; ex-";N1
+649;嫌いがある（きらいがある）;"bad habit; to have a tendency to ~";N1
+650;切りがない（きりがない）;"endless; boundless; going on forever​; there’s no end to ~";N1
+651;きっての;the most / greatest … of all;N1
+652;極まる / 極まりない（きわまる / きわまりない）;"extremely; very ~";N1
+653;こそあれ;"although; even though ~";N1
+654;こそすれ;"and; although; but ~";N1
+655;こそ「～が・けれど」;"but; although (emphasis)";N1
+656;ことごとく;"altogether; entirely; completely ~";N1
+657;ことこの上ない / この上ない / この上なく（ことこのうえない / このうえない / このうえなく）;"the most of all; the best; nothing is more ... than ~";N1
+658;こともあって;"partly because; also because of; plus the reason for ~";N1
+659;ことなしに;without doing something;N1
+660;ことのないように;"so as not to; to not ~";N1
+661;こととて;"because; since ~";N1
+662;くらいなら;rather than (do ...)​;N1
+663;くらいのものだ;only (emphasis);N1
+664;までだ / までのことだ;"only; just; nothing else";N1
+665;までもない / までもなく;"there's no need to; it’s not necessary to ~";N1
+666;まじき;"should not; must not ~";N1
+667;まくる;"to do over and over again; to do relentlessly";N1
+668;まみれ;"covered with; stained; smeared with ~";N1
+669;まるっきり;"completely; absolutely; totally; (not) at all​ ~";N1
+670;めく;"seems; show signs of; to have the appearance of ~";N1
+671;も同然だ（もどうぜんだ）;"just like; same as ~";N1
+672;もさることながら;"one may well say so, but~; not only... but also ~";N1
+673;もしないで;without even doing ~;N1
+674;もはや;"already; now; no longer; not anymore";N1
+675;もので;"because; for that reason";N1
+676;ものを;"if only; I wish; I'm sorry it's not actually (regret)";N1
+677;ものと思われる / ものと見られる（ものとおもわれる / ものとみられる）;"to think; to suppose; it is believed/expected that ~";N1
+678;ものとする;"shall; to assume; understood as ~";N1
+679;ものとして;"to assume; to suppose; on the presumption that ~";N1
+680;もしくは;"or; otherwise";N1
+681;んばかりに;"as if; as though ~";N1
+682;んがために;in order to ~;N1
+683;ながらに / ながらの;"while; during; without change; performed in this condition";N1
+684;ないまでも;"not to say; although it does not reach the level of ~";N1
+685;ないものでもない;is not entirely impossible;N1
+686;ないものか / ないものだろうか;"isn't there; can’t we…?; can’t I…?";N1
+687;ないとも限らない（ないともかぎらない）;"not necessarily; I can't say that; maybe; might ~";N1
+688;なくしては;cannot do without ~;N1
+689;並み（なみ）;"average; ordinary; same level as; equal to; on par with ~";N1
+690;なんという / なんと / なんて;"how (beautiful, etc.); what a ~";N1
+691;何しろ（なにしろ）;"at any rate; after all; anyhow; anyway; in any case; because; as you know ~";N1
+692;ならでは;"distinctive of; uniquely applying to; special to ~";N1
+693;ならいざしらず / はいざしらず;"I don't know about ... but; it may be possible for ... but ~";N1
+694;なり;"as soon as; right after ~";N1
+695;なりに / なりの;"suitable; in one's own way/style";N1
+696;なりとも;"at least; even just a little (adverbial particle)";N1
+697;なり～なり;"[A] or [B] or something; for instance ~";N1
+698;なしに / なしで;"without; without doing ~";N1
+699;に;"and; in addition to; the combination of ~";N1
+700;に値する（にあたいする）;"to be worth; to be worthy of; to deserve; to merit​ ~";N1
+701;にあって;"at; on; during; in the condition of​ ~";N1
+702;に引き換え（にひきかえ）;"compared to; in contrast to; unlike; while; whereas ~";N1
+703;に至る / に至った（にいたる / にいたった）;"leads to; come to a conclusion";N1
+704;に至るまで（にいたるまで）;"as far as; up until; everything from ... to ~";N1
+705;に至っても（にいたっても）;"even if; even though; although something reached the point ~";N1
+706;に至っては（にいたっては）;"when it comes to; as for ~";N1
+707;に言わせれば（にいわせれば）;"if you ask; if one may say ~";N1
+708;に限ったことではない（にかぎったことではない）;not limited to only ~;N1
+709;にかかっては / にかかったら / にかかると / かかれば;when handled by (N), becomes a completely different result;N1
+710;にかかっている;"depending on; to depend on; whether or not";N1
+711;にかこつけて;"to use as a pretext; to use as an excuse";N1
+712;にかまけて;"to be too busy; to focus / concentrate only on ~";N1
+713;に難くない（にかたくない）;"easy to do; it’s not hard to (imagine, understand, guess)";N1
+714;にまつわる;"to be related to; to concern; associated with ~";N1
+715;に則って（にのっとって）;"based on; according to; in accordance with ~";N1
+716;に先駆けて（にさきがけて）;"prior to; to be the first (pioneer); being ahead of ~";N1
+717;に忍びない（にしのびない）;"cannot bring oneself (to do); unable to bear ~";N1
+718;にしたところで / としたところで;"even if; even supposing that ~";N1
+719;にして;at / on / under certain conditions (time, position, age, number of times);N1
+720;に即して（にそくして）;"according to; in keeping with; to be based on ~";N1
+721;に耐える / に耐えない（にたえる / にたえない）;"worth doing; can do; cannot bear doing ~";N1
+722;に足らない / に足りない（にたらない / にたりない）;"cannot; not worthy; not worth doing ~";N1
+723;に足る / に足りる（にたる / にたりる）;"can do; worthy; worth doing";N1
+724;に照らして（にてらして）;"according to; in view of; in light of ~";N1
+725;にとどまらず;"not limited to; not only… but also ~";N1
+726;には無理がある（にはむりがある）;"difficult to do; is unreasonable / unrealistic / impossible";N1
+727;によらず;regardless of ~;N1
+728;に～を重ねて（に～をかさねて）;success after continuous (effort, work, adjustments, etc.);N1
+729;にもほどがある;"there is a limit to what is acceptable; to go too far";N1
+730;にも増して（にもまして）;"more than…; above ~";N1
+731;には当たらない（にはあたらない）;"it’s not worth; there’s no need to; does not correspond to ~";N1
+732;には及ばない（にはおよばない）;"there is no need to; unnecessary; no match for ~";N1
+733;の至り（のいたり）;"utmost; extremely ~";N1
+734;の極み（のきわみ）;"utmost; extremely ~";N1
+735;のなんのって;extremely ~ (cannot be expressed in words);N1
+736;のやら / ものやら / ことやら;"I wonder...; unsure; I don’t know ~";N1
+737;のやら～のやら;or ~ (I don't know);N1
+738;を踏まえて（をふまえて）;"to be based on; to take into account ~";N1
+739;を経て（をへて）;"through; by way of; after; via ~";N1
+740;を控えて（をひかえて）;"to be soon; the time has come to; nearby; ahead of ~";N1
+741;をいいことに;to take advantage of ~;N1
+742;を顧みず / も顧みず（をかえりみず / もかえりみず）;"despite; without considering; not worrying about; regardless of ~";N1
+743;を限りに（をかぎりに）;"starting from; the last time (ending a continued action)";N1
+744;を兼ねて（をかねて）;also for the purpose of ~;N1
+745;を皮切りに（をかわきりに）;"one after another; starting with ~";N1
+746;を機に（をきに）;as an opportunity/chance to ~;N1
+747;を禁じ得ない（をきんじえない）;"can’t help but; can’t refrain from ~";N1
+748;をものともせずに;"in defiance of; not losing to / afraid / worrying about ~";N1
+749;をもって / をもちまして;"by means of; with; on / at / as of (time)​";N1
+750;をおいて～ない;"only; can only be; there is no alternative, only ~";N1
+751;を押して / を押し切って（をおして / をおしきって）;"to overcome (opposition); to push past ~";N1
+752;を境に（をさかいに）;since ~ (indicates a large change before & after);N1
+753;を余儀なくされる（をよぎなくされる）;to be forced to do something because one has no other choice;N1
+754;をよそに;"despite; without regards to ~";N1
+755;を前提として（をぜんていとして）;"with the intention to; on the condition / assumption ~";N1
+756;思いをする（おもいをする）;"to think; to feel ~";N1
+757;折に（おりに）;"when; at the time; on the occasion ~";N1
+758;およそ;"about; roughly; generally; approximately; completely​ ~";N1
+759;さ;"ending particle; indicates assertion";N1
+760;さも;"really (seem, appear, etc.); truly; as if ~";N1
+761;さもないと;"otherwise; or else; if not ~";N1
+762;さぞ;"surely; certainly; no doubt; indeed​ ~";N1
+763;始末だ（しまつだ）;"end up; in the end; as a result (negative)";N1
+764;そばから;"as soon as; right after​ ~";N1
+765;そびれる;"to miss a chance; to fail to do ~";N1
+766;損なう / 損ねる / 損じる（そこなう / そこねる / そんじる）;"to do something wrong; by mistake; to miss a chance; to fail to ~";N1
+767;術がない（すべがない）;"there is no way / means; cannot do ~";N1
+768;すら / ですら;even ~ (with emphasis);N1
+769;た弾みに / た拍子に（たはずみに / たひょうしに）;the moment [A], unintentionally / inadvertently caused something to happen;N1
+770;たことにする / たことになる;"pretend to; see things as untrue; contrary to the truth ~";N1
+771;たところで;"even if; no matter (who, what, when, where, why, how)";N1
+772;たつもりはない;have no intention to / didn't mean to ~;N1
+773;ただ～のみだ;"all we can do is; can do nothing but; only ~";N1
+774;ためしがない;"is never the case; has never happened; I have never seen or heard of ~";N1
+775;たら最後 / たが最後（たらさいご / たがさいご）;if you do... negative result;N1
+776;たら～たで;if / in the case... of course / should ~;N1
+777;たら～ところだ;if... (counterfactual condition), then would be ~;N1
+778;たりとも;"not even; not any ~";N1
+779;たるもの / たる;"(those) who are; (that) which is; in the capacity of ... should ~";N1
+780;て敵わない（てかなわない）;"can't bear to; unable to; troublesome to; can’t stand to ~";N1
+781;てからというもの;ever since ~;N1
+782;てみせる;"I’ll do my best; I'll definitely do; I'll show you ~";N1
+783;てしかるべきだ;"should; appropriate; it is natural to do ~";N1
+784;て済むことではない（てすむことではない）;"~ is not enough to solve the problem; cannot be resolved by ~";N1
+785;てやまない;"always; never stop; can’t help but ~";N1
+786;手前（てまえ）;"considering; before; in front of; one’s standpoint";N1
+787;てもどうにもならない;"it's no use; can't do anything";N1
+788;ても差し支えない（てもさしつかえない）;"can ~; it’s okay if ~ (indicates permission or compromise)";N1
+789;ても知らない（てもしらない）;if (you) continue... you'll end up / I don't care about it;N1
+790;と相まって（とあいまって）;"together with..., more; because of the influence of..., more ~";N1
+791;とあれば;"if it is the case that; if ~";N1
+792;とあって;"due to the fact that; because of ~";N1
+793;とばかりに;"as if to say; as though~";N1
+794;といえども;"even if; even though; despite ~";N1
+795;と言えなくもない（といえなくもない）;"one can even say that; it can also be said that ~";N1
+796;といい～といい;"both ... and; not only ... also; whether it be ... or ~";N1
+797;といったらない;"extremely; very; nothing more ... than this; as ... as it could possibly be";N1
+798;という;"all; every single ~ (no exceptions)";N1
+799;というか～というか;"or rather; or perhaps I should say; I mean ~";N1
+800;というもの;"during; for; since; over a period of time";N1
+801;というところだ / といったところだ;"at the most; no more than​; at best; roughly; about ~";N1
+802;というわけだ;"that's why; no wonder; this means; it is the case that ~";N1
+803;というわけではない;"it’s not that; it doesn’t mean that ~";N1
+804;といわず～といわず;"both; not only A or B, but (overall) ~";N1
+805;ときている;because of ~;N1
+806;とみると;as soon as one realizes ..., then ~;N1
+807;と見るや（とみるや）;"at the sight of; upon seeing; after confirming ~";N1
+808;となると / となれば;"when it comes to; in such a case; if that happens";N1
+809;とされる;"is considered to; it is said that ~";N1
+810;ときたら;"when it comes to; concerning ~";N1
+811;ところを;"although (it is a certain time/condition); even though normally";N1
+812;ともあろうものが;of all people (expression showing surprise at a high standing person's misbehavior);N1
+813;ともなく / ともなしに;"somehow; without knowing; without thinking; unconsciously​ ~";N1
+814;ともすれば;"apt to (do); tend to; liable to; prone to ~";N1
+815;とも～とも;"unable to draw a conclusion; unable to judge";N1
+816;とりわけ;"especially; above all ~";N1
+817;としたことが;of all people, who would have thought?;N1
+818;とっさに;"at once; right away; promptly";N1
+819;とて;"even; even if/though ~";N1
+820;とは;"I didn't know; I was surprised that; the fact that ~";N1
+821;とはいえ;"though; although; be that as it may; nonetheless";N1
+822;とは比べものにならない（とはくらべものにならない）;can't compare with ~;N1
+823;とは打って変わって / とは打って変わり（とはうってかわって / とはうってかわり）;"unlike; totally different; very different from ~";N1
+824;つ～つ;and ~ (indicates two contrasting actions);N1
+825;尽くす（つくす）;"to use up (completely without anything remaining); to exhaust; to run out of ~";N1
+826;ってば / ったら;"speaking of; I told you already; come on (annoyance / dissatisfaction)";N1
+827;うちに入らない（うちにはいらない）;"not really; can't be regarded as ~";N1
+828;わ;feminine sentence ending particle;N1
+829;はどうであれ;"however; whatever​ ~";N1
+830;はおろか;"let alone; not to mention; needless to say ~";N1
+831;はさておき;setting aside ~;N1
+832;はそっちのけで / をそっちのけで;"ignoring (one thing) for (another)​​; instead of ~";N1
+833;わ〜わで;and (listing negative things happening at the same time);N1
+834;や否や（やいなや）;"as soon as; the moment ~";N1
+835;やしない;"should do, but don't; absolutely not; there's no way ~";N1
+836;やれ～やれ;pattern to give two representative examples (usually negative);N1
+837;ようが / ようと;"even if; no matter how/what ~";N1
+838;ようが～ようが / ようと～ようと;"no matter; whether; even if [A] or [B]";N1
+839;ようによっては / ようでは;"depending on the way; depending on how; according to how ~";N1
+840;ようにも～ない;even if I wanted to… I couldn’t ~;N1
+841;ようと～まいと / ようが～まいが;"whether or not; regardless";N1
+842;ゆえに;"therefore; consequently​; because of; due to ~";N1
+843;ぞ・ぜ;"ending particle; adds force or indicates command";N1
+844;ずじまい;ended up not doing ~;N1
+845;ずにはおかない / ないではおかない;"will definitely/certainly do something; cannot not ~";N1
+846;ずには済まない / ないでは済まない（ずにはすまない / ないではすまない）;"must; will definitely; can’t help but to ~";N1
+847;ずとも;"even without doing; even without being​ ~";N1
+848;ずくめ;"completely; entirely; nothing but ~";N1

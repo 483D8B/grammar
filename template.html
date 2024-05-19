@@ -1,0 +1,28 @@
+<div id="grammarContent">
+    {% for grammar_point in grammar_points %}
+    <div class="lessons" id="lesson_{{ grammar_point['id'] }}">
+        <h1>{{ grammar_point['GrammarPoint'] }}</h1>
+
+        <div class="level">
+        {{ grammar_point['Level'] }}
+        </div>
+
+        <div class="meaning">
+            {{ grammar_point['GrammarMeaning'] }}
+        </div>
+
+        <div class="howToUse">
+
+        </div>
+
+        <div class="explanations">
+
+        </div>
+
+        <div class="examples">
+
+        </div>
+
+    </div>
+    {% endfor %}
+</div>
