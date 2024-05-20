@@ -214,10 +214,11 @@
             border: 1px solid black;
         }
 
-        
 
-        label[for="filterStudied"], input[id="filterStudied"] {
-            display: inline-block;
+
+        label[for="filterStudied"],
+        input[id="filterStudied"] {
+            display: block;
             font-size: 0.8em;
             color: black;
             background-color: wheat;
@@ -226,12 +227,28 @@
             border: 1px solid black;
         }
 
+        #searchCount {
+            display: block;
+            font-size: 0.8em;
+            color: black;
+            background-color: wheat;
+            cursor: pointer;
+            padding: 0.2em;
+            border: 1px solid black;
+            text-align: center;
+        }
+
+        .search-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 1em;
+        }
     </style>
 </head>
 
 <body>
-
-
 
 
     <form class="search-box">
@@ -240,9 +257,16 @@
         <button id="deleteSearch" type="reset" aria-label="Delete Search">.</button>
     </form>
 
-    <label for="filterStudied">Studied</label>
-    <input type="checkbox" id="filterStudied">
-    <!-- Your content here -->
+
+    <div class="search-container">
+        <div id="searchCount"></div>
+        <label for="filterStudied">Show only Studied</label>
+        <input type="checkbox" id="filterStudied">
+    </div>
+
+
+
+
     <div class="divTable" id="grammar_table">
         <div class="divTableBody" id="table_body">
 
@@ -389,6 +413,10 @@
                     });
                 });
 
+                document.getElementById('searchCount').textContent = grammar.length + ' lessons';
+                
+                
+
 
 
             });  //end doc ready
@@ -424,7 +452,7 @@
                             let studied = row[10].v;
                             let total = row[11].v;
                             let perc = (row[10].v) / (row[11].v);
-                            console.log(studied + '/' + total + ': ' + perc.toFixed(2) * 100 + '%');
+                            // console.log(studied + '/' + total + ': ' + perc.toFixed(2) * 100 + '%');
                         }
                     });
             }
@@ -448,6 +476,9 @@
                 // Check if the search words include a level
                 let searchLevel = searchWords.find(word => levels.includes(word.toLowerCase()));
 
+                let count = 0; // Initialize count of shown cells
+
+
                 if (searchWords.length === 0 || (searchWords.length === 1 && searchLevel)) {
                     divTableCells.forEach(cell => {
                         const levelText = cell.querySelector('.level').textContent.trim().toLowerCase();
@@ -455,6 +486,9 @@
                             cell.style.display = levelText === searchLevel ? 'block' : 'none';
                         } else {
                             cell.style.display = "block";
+                        }
+                        if (cell.style.display === "block") {
+                            count++;
                         }
                         let lesson = cell.querySelector('.lesson').textContent.trim();
                         displayedGrammar.push(lesson);  // Add the lesson to the array
@@ -487,6 +521,7 @@
                             wholeWordFound = true;
                             let lesson = cell.querySelector('.lesson').textContent.trim();
                             displayedGrammar.push(lesson);  // Add the lesson to the array
+                            count++;
                         }
                     });
 
@@ -513,10 +548,13 @@
                             if (found) {
                                 let lesson = cell.querySelector('.lesson').textContent.trim();
                                 displayedGrammar.push(lesson);  // Add the lesson to the array
+                                count++;
                             }
                         });
                     }
                 }
+                var searchCountDiv = document.querySelector("#searchCount");
+                searchCountDiv.textContent = count + ' lessons';
             }
 
 
